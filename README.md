@@ -1,4 +1,4 @@
-##Teste técnico para vaga de desenvolvimento##
+Teste técnico para vaga de desenvolvimento
 
 Neste teste, será avaliada a sua habilidade de analisar, elaborar e implementar uma solução
 para atender à solicitação recebida. Você deve seguir as boas práticas de desenvolvimento, tanto
