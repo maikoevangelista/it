@@ -10,8 +10,8 @@ seguindo conceito do** S.O.L.I.D**:
 [[S]ingle Responsibility Principle (Princípio da Responsabilidade Única)[O]pen/Closed Principle (Princípio do Aberto/Fechado)[L]iskov Substitution Principle (Princípio da Substituição de Liskov)[I]nterface Segregation Principle (Princípio da Segregação de Interfaces)[D]ependency Inversion Principle (Princípio da Inversão de Dependências)](https://pt.wikipedia.org/wiki/SOLID "[S]ingle Responsibility Principle (Princípio da Responsabilidade Única)[O]pen/Closed Principle (Princípio do Aberto/Fechado)[L]iskov Substitution Principle (Princípio da Substituição de Liskov)[I]nterface Segregation Principle (Princípio da Segregação de Interfaces)[D]ependency Inversion Principle (Princípio da Inversão de Dependências)")
 
 
-
-**Das especificações:
+##
+Das especificações:
 Construir um Web Service na Arquitetura REST, que no qual deverá ser possível realizar as
 seguintes ações:**
 1. Autenticação (JWT)
@@ -22,8 +22,8 @@ seguintes ações:**
 6. Atribuição de Permissão
 7. Armazenar registros de endereço
 
-**Deverá ser criada uma camada de ACL simples.
-**
+##
+Deverá ser criada uma camada de ACL simples.
 
 - Dados do Usuário
 - Nome
@@ -40,8 +40,8 @@ Dados de Endereço
 - CEP
 
 
-**Requisitos da implementação
-**
+##
+Requisitos da implementação
 
 1. Utilize a linguagem Python/JS com algum Framework (Flask ou Django ou ExpressJS/AdonisJS);
 2. Modelo ER de relacionamento de dados
@@ -50,8 +50,9 @@ Dados de Endereço
 a. Adapter (doc – Exemplo de aplicabilidade: Responses)
 b. Abstract Factory (doc – Exemplo de aplicabilidade: Cadastro do Usuário)
 
-**Aspectos de avaliação:
-**
+##
+Aspectos de avaliação:
+
 1. Implementação e organização do código;
 2. Validação de dados;
 3. Armazenamento e Manipulação de dados;
