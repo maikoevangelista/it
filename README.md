@@ -1,5 +1,11 @@
 # Teste técnico para vaga de desenvolvimento
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maiko" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"">
+    </div> 
+    
+ #
+
 Neste teste, será avaliada a sua habilidade de analisar, elaborar e implementar uma solução
 para atender à solicitação recebida. Você deve seguir as boas práticas de desenvolvimento, tanto
 sobre arquitetura de software quanto de código.
